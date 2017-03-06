@@ -68,40 +68,42 @@ else{
                         <div class="panel panel-default acc-panel">
                             <div class="panel-heading">
                                 <a data-toggle="collapse" data-parent="#acc-cat-1" href="#faq-cat-1-sub-1">
-                                    <h5 class="panel--title">Title 1</h5>
+                                    <h5 class="panel--title">Make My Trip</h5>
                                 </a>
                             </div>
                             <div id="faq-cat-1-sub-1" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                <h5>Technology</h5>
+                                <h5>HTML, CSS, JSP, Jquery</h5>
+                                <h5>Servlet, Hibernate, Mysql</h5>
                                 </div>
                                 <div class="panel-body">
-                                <h5>Description</h5>
+                                <h5>A project similar to Make My Trip.com website which facilitates International and Domestic Air Tickets booking,</h5>
+								<h5>Holiday Packages and Hotel booking etc.</h5>
                                 </div>
                                 <div class="panel-body">
                                  
                                     <div class='list-group gallery'>
                                             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                                                <a class="thumbnail fancybox" rel="ligthbox" href="/popup/php.PNG">
-                                                    <img class="img-responsive" alt="" src="/popup/php.PNG" />
+                                                <a class="thumbnail fancybox" rel="ligthbox" href="images/home.png">
+                                                    <img class="img-responsive" alt="" src="images/home.png" />
                                                     <div class='text-right'>
-                                                        <small class='text-muted'>Image Title</small>
+                                                        <small class='text-muted'>Home Page</small>
                                                     </div> <!-- text-right / end -->
                                                 </a>
                                             </div> <!-- col-6 / end -->
                                             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                                                <a class="thumbnail fancybox" rel="ligthbox" href="/popup/php.PNG">
-                                                    <img class="img-responsive" alt="" src="/popup/php.PNG" />
+                                                <a class="thumbnail fancybox" rel="ligthbox" href="images/about.png">
+                                                    <img class="img-responsive" alt="" src="images/about.png" />
                                                     <div class='text-right'>
-                                                        <small class='text-muted'>Image Title</small>
+                                                        <small class='text-muted'>About Us Page</small>
                                                     </div> <!-- text-right / end -->
                                                 </a>
                                             </div> <!-- col-6 / end -->
                                             <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                                                <a class="thumbnail fancybox" rel="ligthbox" href="/popup/php.PNG">
-                                                    <img class="img-responsive" alt="" src="/popup/php.PNG" />
+                                                <a class="thumbnail fancybox" rel="ligthbox" href="images/contacts.png">
+                                                    <img class="img-responsive" alt="" src="images/contacts.png" />
                                                     <div class='text-right'>
-                                                        <small class='text-muted'>Image Title</small>
+                                                        <small class='text-muted'>Contact Us Page</small>
                                                     </div> <!-- text-right / end -->
                                                 </a>
                                             </div> <!-- col-6 / end -->

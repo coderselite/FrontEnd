@@ -29,7 +29,7 @@ if(count($_POST)>0) {
 			header("location:loginForm.php");
 		}
 	}else{
-		$_SESSION["loginMessage"] = "$flag1 $flag $pwd Invalid credentials. Try again.";
+		$_SESSION["loginMessage"] = "Invalid credentials. Try again.";
 		header("location:loginForm.php");
 	}
 }
